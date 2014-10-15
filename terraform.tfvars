@@ -1,0 +1,2 @@
+aws_access_key = "XXXXXXXXXXXXXXXXX"
+aws_secret_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
